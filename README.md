@@ -15,7 +15,7 @@ This is a simple AI-powered web app built with **Python Flask** and **Google Gem
 
 ##  Requirements
 
-- ython 3.8+
+- python 3.8+
 - Google Gemini API key
 - Basic Flask + Python environment
 
